@@ -1327,3 +1327,30 @@ padding:0;
   }
 }
 /*-- //responsive media queries --*/
+/* 爱的诗篇样式 */
+.our-love-poem {
+	padding: 5em 0;
+	background: #f9f9f9;
+}
+.poem-info h2 {
+	color: #76b852;
+	font-size: 3em;
+	font-family: 'Jockey One', sans-serif;
+	text-align: center;
+	margin-bottom: 1em;
+}
+.poem-content {
+	width: 70%;
+	margin: 0 auto;
+	font-size: 1.2em;
+	line-height: 1.8em;
+	color: #323b43;
+	font-style: italic;
+	background: #fff;
+	padding: 2em;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.poem-content p {
+	margin: 0.5em 0;
+}
